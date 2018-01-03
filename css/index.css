@@ -7,6 +7,10 @@ h1 {
   margin-bottom: 20px;
 }
 
+h2 {
+  font-size: 6vw;
+}
+
 #hotel {
   width: 60%;
   margin-bottom: 20px;
@@ -15,4 +19,11 @@ h1 {
 li {
   font-size: 4vw;
   padding: 20px;
+}
+a {
+  font-size: 4vw;
+}
+
+#contact {
+  font-size: 4vw;
 }
