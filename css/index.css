@@ -1,0 +1,29 @@
+body {
+  background-color: gold;
+}
+h1 {
+  font-size: 9vw;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 6vw;
+}
+
+#hotel {
+  width: 60%;
+  margin-bottom: 20px;
+}
+
+li {
+  font-size: 4vw;
+  padding: 20px;
+}
+a {
+  font-size: 4vw;
+}
+
+#contact {
+  font-size: 4vw;
+}
